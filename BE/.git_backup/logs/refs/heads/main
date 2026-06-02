@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 a4fab250983f2a2cb85bc35c4627ae836f0fd700 iparthpandey <iparthpandey@gmail.com> 1780356497 +0530	commit (initial): initial commit
+a4fab250983f2a2cb85bc35c4627ae836f0fd700 a4fab250983f2a2cb85bc35c4627ae836f0fd700 iparthpandey <iparthpandey@gmail.com> 1780356497 +0530	Branch: renamed refs/heads/master to refs/heads/main
+a4fab250983f2a2cb85bc35c4627ae836f0fd700 a4fab250983f2a2cb85bc35c4627ae836f0fd700 Parth Pandey <parth@example.com> 1780356517 +0530	Branch: renamed refs/heads/main to refs/heads/main
+a4fab250983f2a2cb85bc35c4627ae836f0fd700 d32659e4ef6a0080c0e5f8d735cecefef7490521 Parth Pandey <parth@example.com> 1780357542 +0530	commit: add FastAPI backend at root, Dockerfile and docker-compose updates

@@ -1,0 +1,1 @@
+feat: add validations for products/customers and fix mutation state checks; silent offline fallback

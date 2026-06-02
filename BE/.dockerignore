@@ -1,0 +1,42 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# Git
+.git
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Docker and compose
+Dockerfile
+docker-compose.yml
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Logs and runtime
+*.log
+*.sqlite3
+
+# Tests (don't send heavy test dirs unless needed in image)
+tests/
+
+# OneDrive temporary files
+~$*
+
+# Exclude backend source if building from BE/backend context (already copied in that Dockerfile)
+backend/
